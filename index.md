@@ -1,5 +1,5 @@
 ---
 title: Blog Fin
-:) :(
+description: :) :(
 ---
 
